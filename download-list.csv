@@ -1,9 +1,9 @@
-Ubuntu Desktop 22.04 LTS,https://releases.ubuntu.com/22.04/ubuntu-22.04-desktop-amd64.iso,“/downloads/backup/os-distributions/linux”
+Ubuntu Desktop 22.04 LTS,https://releases.ubuntu.com/22.04/ubuntu-22.04-desktop-amd64.iso.torrent,“/downloads/backup/os-distributions/linux”
 Xubuntu 22.04 LTS,https://torrent.ubuntu.com/xubuntu/releases/jammy/release/desktop/xubuntu-22.04-desktop-amd64.iso.torrent,“/downloads/backup/os-distributions/linux”
 Pop_OS! 22.04 LTS,https://iso.pop-os.org/22.04/amd64/intel/11/pop-os_22.04_amd64_intel_11.iso,“/downloads/backup/os-distributions/linux”
 Pop_OS! 22.04 LTS (Nvidia),https://iso.pop-os.org/22.04/amd64/nvidia/11/pop-os_22.04_amd64_nvidia_11.iso,“/downloads/backup/os-distributions/linux”
-Ubuntu Server 22.04 LTS,https://releases.ubuntu.com/22.04/ubuntu-22.04-live-server-amd64.iso,“/downloads/backup/os-distributions/linux”
-Ubuntu Server 20.04 LTS,https://releases.ubuntu.com/20.04/ubuntu-20.04.4-live-server-amd64.iso,“/downloads/backup/os-distributions/linux”
+Ubuntu Server 22.04 LTS,https://releases.ubuntu.com/22.04/ubuntu-22.04-live-server-amd64.iso.torrent,“/downloads/backup/os-distributions/linux”
+Ubuntu Server 20.04 LTS,https://releases.ubuntu.com/20.04/ubuntu-20.04.4-live-server-amd64.iso.torrent,“/downloads/backup/os-distributions/linux”
 DietPi (Raspberry Pi – ARMv8-Bullseye 64-bit) ,https://dietpi.com/downloads/images/DietPi_RPi-ARMv8-Bullseye.7z,“/downloads/backup/os-distributions/raspberry”
 Raspberry Pi OS with desktop (64-bit),https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2022-04-07/2022-04-04-raspios-bullseye-arm64.img.xz,“/downloads/backup/os-distributions/raspberry”
 Raspberry Pi OS Lite (64-bit),https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2022-04-07/2022-04-04-raspios-bullseye-arm64-lite.img.xz,“/downloads/backup/os-distributions/raspberry”
